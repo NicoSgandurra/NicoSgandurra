@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 - I'm Nicolas Sgandurra.
 
-<!--
-**NicoSgandurra/NicoSgandurra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
 
-Here are some ideas to get you started:
+- 🌍 Ubicación: San Rafael, Mendoza, Argentina
+- 👨‍🎓 Cursando la Tecnicatura Universitaria en Programación, último semestre en la Universidad Tecnológica Nacional (UTN)
+- 📚 Actualmente en 3er año de Ingeniería Electromecánica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML, CSS, JavaScript
+- 🔐 SQL
+- 🛠️ Arduino
+
+## Proyectos Destacados
+
+- 🔍 [Control de motor paso a paso con Arduino](https://github.com/NicoSgandurra/StepByStepMotorControlWithArduinoUNO)
+
+## Contacto
+
+- 📧 Correo electrónico: nico.sgandurra@gmail.com
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, ¡no dudes en contactarme!
