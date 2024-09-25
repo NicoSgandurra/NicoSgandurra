@@ -4,7 +4,7 @@
 
 - 🌍 Ubicación: San Rafael, Mendoza, Argentina
 - 👨‍🎓 Cursando la Tecnicatura Universitaria en Programación, último semestre en la Universidad Tecnológica Nacional (UTN)
-- 📚 Actualmente en 3er año de Ingeniería Electromecánica
+- 📚 Actualmente en 4to año de Ingeniería Electromecánica
 
 ## Habilidades
 
