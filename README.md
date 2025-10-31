@@ -16,8 +16,8 @@
 ## Proyectos Destacados
 
 - 🔍 [Control de motor paso a paso con Arduino](https://github.com/NicoSgandurra/StepByStepMotorControlWithArduinoUNO)
-- 📝 [Simuladores circuitos Eléctricos] (https://github.com/NicoSgandurra/SimCircuitosElectricos)
-- 🔥 [Simulador Triángulo de Oswald] (https://github.com/NicoSgandurra/Oswald)
+- 📝 [Simuladores circuitos Eléctricos](https://github.com/NicoSgandurra/SimCircuitosElectricos)
+- 🔥 [Simulador Triángulo de Oswald](https://github.com/NicoSgandurra/Oswald)
 
 ## Contacto
 
