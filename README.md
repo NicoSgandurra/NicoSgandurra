@@ -3,7 +3,7 @@
 ## Acerca de mí
 
 - 🌍 Ubicación: San Rafael, Mendoza, Argentina
-- 📚 Actualmente en 4to año de Ingeniería Electromecánica
+- 📚 Actualmente en 5to año de Ingeniería Electromecánica
 
 ## Habilidades
 
