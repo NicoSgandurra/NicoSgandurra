@@ -16,7 +16,7 @@
 ## Proyectos Destacados
 
 - 🗡️ [Contador para el Truco](https://github.com/NicoSgandurra/TrucoScore)
-- 🦆 [Página web para el emprendimiento CuackDernos ❤️]([https://github.com/NicoSgandurra/Oswald](https://nicosgandurra.github.io/CuackdernosWEBSITE/))
+- 🦆 [Página web para el emprendimiento CuackDernos❤️](https://nicosgandurra.github.io/CuackdernosWEBSITE)
 - 🔍 [Control de motor paso a paso con Arduino](https://github.com/NicoSgandurra/StepByStepMotorControlWithArduinoUNO)
 - 📝 [Simuladores circuitos Eléctricos](https://github.com/NicoSgandurra/SimCircuitosElectricos)
 - 🔥 [Simulador Triángulo de Oswald](https://github.com/NicoSgandurra/Oswald)
