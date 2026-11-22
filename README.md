@@ -1,29 +1,35 @@
-### Hi there 👋 - I'm Nicolas Sgandurra.
+# Nicolas Sgandurra
 
-## Acerca de mí
+Técnico electricista y estudiante avanzado de Ingeniería Electromecánica en la UTN San Rafael, Argentina. Doy clases de Circuitos Eléctricos y programo herramientas para ingeniería.
 
-- 🌍 Ubicación: San Rafael, Mendoza, Argentina
-- 📚 Actualmente en 5to año de Ingeniería Electromecánica
+**[Ver todos mis proyectos](https://nicosgandurra.github.io/)**
 
-## Habilidades
+## Proyectos
 
-- 🐍 Python
-- ☕ Java
-- 🌐 HTML, CSS, JavaScript
-- 🔐 SQL
-- 🛠️ Arduino
+### Capacidad dinámica de una línea de 132 kV (DLR)
 
-## Proyectos Destacados
+Estudio preliminar de una línea de transporte existente. El modelo térmico está hecho en Python y usa 31 años de datos de clima para estimar cuánta corriente admite la línea en cada hora y qué equipos la limitan. El repositorio es privado.
 
-- 🗡️ [Contador para el Truco](https://github.com/NicoSgandurra/TrucoScore)
-- 🦆 [Página web para el emprendimiento CuackDernos❤️](https://nicosgandurra.github.io/CuackdernosWEBSITE)
-- 🔍 [Control de motor paso a paso con Arduino](https://github.com/NicoSgandurra/StepByStepMotorControlWithArduinoUNO)
-- 📝 [Simuladores circuitos Eléctricos](https://github.com/NicoSgandurra/SimCircuitosElectricos)
-- 🔥 [Simulador Triángulo de Oswald](https://github.com/NicoSgandurra/Oswald)
+### [Simuladores de circuitos eléctricos](https://github.com/NicoSgandurra/SimCircuitosElectricos)
 
+Factor de potencia, neutro flotante, sistemas trifásicos, teoremas de redes y caída de tensión. [Se usan desde el navegador](https://nicosgandurra.github.io/SimCircuitosElectricos/).
+
+### Nexxo
+
+Sistema de gestión a medida para un comercio, hecho con Python, FastAPI, PostgreSQL, React y TypeScript. Funciona en paralelo con el sistema anterior mientras termina la implementación. El repositorio es privado.
+
+### Otros trabajos
+
+- [Triángulo de Oswald](https://github.com/NicoSgandurra/Oswald): análisis de combustión, hecho con Pablo Rubio.
+- [Motor paso a paso con Arduino](https://github.com/NicoSgandurra/StepByStepMotorControlWithArduinoUNO): control con pulsadores y finales de carrera.
+- [PCScanner](https://github.com/NicoSgandurra/PCScanner-TecNito): relevamiento de hardware con PowerShell.
+
+## Herramientas
+
+- Ingeniería: Mathcad, AutoCAD, Autodesk Inventor, Excel
+- Programación: Python, JavaScript, TypeScript, React, PostgreSQL
+- Control de versiones: Git y GitHub
 
 ## Contacto
 
-- 📧 Correo electrónico: nico.sgandurra@gmail.com
-
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, ¡no dudes en contactarme!
+[LinkedIn](https://www.linkedin.com/in/nicosgandurra) | nico.sgandurra@gmail.com
