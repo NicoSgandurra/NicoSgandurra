@@ -1,6 +1,6 @@
 <a href="https://nicosgandurra.github.io/"><img src="banner.svg" alt="Nicolas Sgandurra. Técnico electricista, docente y estudiante de Ingeniería Electromecánica." width="100%"></a>
 
-Hola, soy Nico. Doy clases de Circuitos Eléctricos y estudio Ingeniería Electromecánica en la UTN San Rafael. Cuando un tema de clase cuesta explicarlo, le hago un simulador, y también programo software y sitios web a medida.
+Hola, soy Nico. Doy clases de Circuitos Eléctricos y estudio Ingeniería Electromecánica en la UTN San Rafael. 
 
 [Portfolio](https://nicosgandurra.github.io/) · [LinkedIn](https://www.linkedin.com/in/nicosgandurra) · nico.sgandurra@gmail.com
 
